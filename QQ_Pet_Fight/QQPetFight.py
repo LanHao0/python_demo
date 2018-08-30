@@ -407,7 +407,7 @@ def All_Task():
     huan_jing()  # 幻境
     share()  # 分享
     ren_wu()  # 任务
-    ling_jiang()  # 活跃度领奖
+    #ling_jiang()   活跃度领奖
 
 
 if __name__ == "__main__":
